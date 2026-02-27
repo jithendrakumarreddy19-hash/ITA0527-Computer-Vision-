@@ -24,4 +24,5 @@ def analyze_histogram(image_path):
     plt.legend()
     plt.show()
 
-analyze_histogram(r"C:\Users\jithe\OneDrive\Documents\opencv\test_image.jpg")  # Replace with your image file
+analyze_histogram(r"C:\Users\jithe\OneDrive\Documents\opencv\JITTU.jpg")  # Replace with your image file
+
